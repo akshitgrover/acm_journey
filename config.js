@@ -1,16 +1,16 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://acm-journey.netlify.com',
   title: '3 years at ACM VIT',
   subtitle: 'All about my journey at ACM VIT Student Chapter',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 5,
+  googleAnalyticsId: 'UA-127818884-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'My Journey',
       path: '/'
     },
     {
