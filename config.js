@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   title: '3 years at ACM VIT',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'All about my journey at ACM VIT Student Chapter',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Akshit Grover',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'All about my journey at ACM VIT Student Chapter',
     contacts: {
       email: '#',
       telegram: '#',
