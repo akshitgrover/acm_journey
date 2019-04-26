@@ -1,5 +1,5 @@
 ---
-title: Perfecting the Art of Perfection
+title: "Family which helped me to understand what is it to live"
 date: "2016-09-01T23:46:37.121Z"
 template: "post"
 draft: false
