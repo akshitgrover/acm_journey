@@ -7,13 +7,23 @@ slug: "/posts/realised-potential/"
 category: "Journey"
 tags:
   - "Journey"
-description: ""
+description: "I was never so thoughtful of myself. I never thought I could address and take sessions, hands on workshops at a gathering of hundreds, and what not. I never thought I could work on and create full scale projects. I never thought I could lead someone."
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+I was just an average student in my school. I was never given any kind of opportunities or let's just say I never held up for them myself because I always thought so low of myself.
+Who to blaim me? or the teachers? that is the question for some other day.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+But, What I know is, Every person deserves a chance and little external help to push the boundaries.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+Once I joined ACM VIT, I got the chance to explore what is there for me and ofcourse I had amazing mentors to guide me.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+![Image](/media/2.png)
+
+I was never so thoughtful of myself.
+I never thought I could address and take sessions, hands on workshops at a gathering of hundreds, and what not.
+I never thought I could work on and create full scale projects.
+I never thought I could lead someone.
+
+Well, it will always be ***"I never thought"*** for an average student.
+
+ACM VIT taught me **"I believe"**
