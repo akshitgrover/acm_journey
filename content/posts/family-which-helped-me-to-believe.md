@@ -7,13 +7,24 @@ slug: "/posts/helped-believe/"
 category: "Journey"
 tags:
   - "Journey"
-description: ""
+description: "Believing was one of the most important things I learnt during my years at ACM VIT.
+Often, We tend to reject a task which seems difficult. Difficulty is nothing but a guard which ensures to keep us into our comfort zones."
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Believing was one of the most important things I learnt during my years at ACM VIT.
+Often, We tend to reject a task which seems difficult. Difficulty is nothing but a guard which ensures to keep us into our comfort zones.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+But we all know no one has ever achieved anything by staying behind the guards of difficulty.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+![Image](/media/3.jpg)
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+There is only one way one can fight this and get out of the comfort zone, `Believing`.
+
+Believing in a better future.
+Believing in something greater than ourselves.
+Believing in accomplishments.
+Believing in us.
+
+Once we realise that the task upon us is somthing bigger than me or you or anyone in this world, This is where the key out of the comfort zone lies.
+
+ACM VIT ***"Believes in challenging ones own self"***.
