@@ -7,13 +7,23 @@ slug: "/posts/to-live/"
 category: "Journey"
 tags:
   - "Journey"
-description: ""
+description: "Soon after weeks into my freshmen year I realised, There is a lot to catch up.
+I knew nothing compared to others in my batch, Let's not talk about senior batches, They were way up!"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Soon after weeks into my freshmen year I realised, There is a lot to catch up.
+I knew nothing compared to others in my batch, Let's not talk about senior batches, They were way up!
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+I used to sit for hours staring at my computer screen probably going through some tutorials. I was a Hostel -> Lecture & Lecture -> Hostel guy. Always stayed out from any of my roommates plans.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+![Image](/media/4.jpg)
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+It was second semester when I joined ACM VIT. My college life completely changed there after.
+
+I started hanging out with other members, We used to go out for lunch wearing ACM Tshirts, We used to plan well for our weekends and our night meetings were LIT.
+
+Even work seemed like partying at ACM VIT. We even named our hostel rooms as `ACM VIT Datacenter`, `ACM VIT Headquarters`
+
+All these moments made me realise the importance of friendship, importance of fun, importance of living.
+
+ACM VIT ***"Believes in Living life"***
