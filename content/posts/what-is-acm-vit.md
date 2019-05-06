@@ -7,13 +7,21 @@ slug: "/posts/what-is-acm-vit/"
 category: "Journey"
 tags:
   - "Journey"
-description: ""
+description: "ACM VIT, Yet another student chapter in VIT University. To the people it is. But, when it comes to the team, We take pride in claiming ourselves to be a family."
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+**ACM VIT**, Yet another student chapter in VIT University. To the people it is.
+But, when it comes to the team, We take pride in claiming ourselves to be a family.
+When I came to VIT it was first time leaving home for quite a period. I needed someone, Some like minded some who'll listen to me and give advice and all those support factors.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+![Image](/media/1.jpg)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+I still think me getting into ACM was just another luck by chance. I am pretty sure I didn't perform well on the entrance and I don't how I got through the interview.
+But great things are meant to happen right?
+ACM VIT happened to me and here it was, ***"My Family Away From Home"***.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+To many it's just a chapter, But to me it is a boat which is destined to take you from you to a better you.
+
+The way we operate at ACM VIT is not another hierarchy but a sense of cohesion and spirit is deeply embedded into us. Now, we don't do some team bonding exercises for it but what we do is quite simple. We provide everyone with the space and opportunity to think, speak and question.
+
+That is what ACM VIT is, ***"A Family"***, ***"A Boat"*** and everything that can define my college life.
