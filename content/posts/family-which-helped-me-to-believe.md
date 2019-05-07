@@ -25,6 +25,6 @@ Believing in something greater than ourselves.
 Believing in accomplishments.
 Believing in us.
 
-Once we realise that the task upon us is somthing bigger than me or you or anyone in this world, This is where the key out of the comfort zone lies.
+Once we realise that the task upon us is something bigger than me or you or anyone in this world, This is where the key out of the comfort zone lies.
 
 ACM VIT ***"Believes in challenging ones own self"***.

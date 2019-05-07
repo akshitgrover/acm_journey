@@ -11,7 +11,7 @@ description: "I was never so thoughtful of myself. I never thought I could addre
 ---
 
 I was just an average student in my school. I was never given any kind of opportunities or let's just say I never held up for them myself because I always thought so low of myself.
-Who to blaim me? or the teachers? that is the question for some other day.
+Who to blaim? Me or the teachers? that is the question for some other day.
 
 But, What I know is, Every person deserves a chance and little external help to push the boundaries.
 

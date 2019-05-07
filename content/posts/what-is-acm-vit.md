@@ -16,7 +16,7 @@ When I came to VIT it was first time leaving home for quite a period. I needed s
 
 ![Image](/media/1.jpg)
 
-I still think me getting into ACM was just another luck by chance. I am pretty sure I didn't perform well on the entrance and I don't how I got through the interview.
+I still think me getting into ACM was just another luck by chance. I am pretty sure I didn't perform well on the entrance and I don't know how I got through the interview.
 But great things are meant to happen right?
 ACM VIT happened to me and here it was, ***"My Family Away From Home"***.
 

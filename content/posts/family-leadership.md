@@ -14,7 +14,7 @@ At ACM VIT I got to understand what it really is to lead. Watching my amazing me
 
 ![Image](/media/8.jpg)
 
-Leadership is all about aiming at a better and long term goal rather than sweating and getting discouraged with a small one. It is about taking ones team forward with this one long term and a beter goal. It is about being there at ground zero with the team in the time of crisis. It is about setting an example.
+Leadership is all about aiming at a better and long term goal rather than sweating and getting discouraged with a small one. It is about taking ones team forward with this one long term and a better goal. It is about being there at ground zero with the team in the time of crisis. It is about setting an example.
 Nonetheless it is about believing in each and every member of the team even if they don't believe in you.
 
 I could never have seen such selflessness any where in practice.
