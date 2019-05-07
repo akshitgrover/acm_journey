@@ -7,13 +7,16 @@ slug: "/posts/understand-leadership/"
 category: "Journey"
 tags:
   - "Journey"
-description: ""
+description: "At ACM VIT I got to understand what it really is to lead. Watching my amazing mentors at ground zero, Interacting with them, Listening to them, Watching them grow, Following them, Helping them, Looking up to them for any blunder I made, made me realise leadership is not about imposing decisions or getting things done. "
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+At ACM VIT I got to understand what it really is to lead. Watching my amazing mentors at ground zero, Interacting with them, Listening to them, Watching them grow, Following them, Helping them, Looking up to them for any blunder I made, made me realise leadership is not about imposing decisions or getting things done. 
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+![Image](/media/8.jpg)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+Leadership is all about aiming at a better and long term goal rather than sweating and getting discouraged with a small one. It is about taking ones team forward with this one long term and a beter goal. It is about being there at ground zero with the team in the time of crisis. It is about setting an example.
+Nonetheless it is about believing in each and every member of the team even if they don't believe in you.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+I could never have seen such selflessness any where in practice.
+
+ACM VIT "Creates leaders not someone who abuses leadership"
