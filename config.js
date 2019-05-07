@@ -12,14 +12,6 @@ module.exports = {
     {
       label: 'My Journey',
       path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
@@ -27,12 +19,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'All about my journey at ACM VIT Student Chapter',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'contact@akshitgrover.dev',
+      twitter: 'akshitgrover_',
+      github: 'akshitgrover',
     }
   }
 };
