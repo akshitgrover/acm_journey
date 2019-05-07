@@ -7,13 +7,19 @@ slug: "/posts/think-see-beyond/"
 category: "Journey"
 tags:
   - "Journey"
-description: ""
+description: "Up till my early days of sophomore year I used to work on projects, ideas etc. as team of one. Things changed when I got my first project, It was a project which required a team of two one for frontend and on to handle the backend part."
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+I always thought of myself as a runner in a 100m race, Running alone to win.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+Up till my early days of sophomore year I used to work on projects, ideas etc. as team of one. Things changed when I got my first project, It was a project which required a team of two one for frontend and on to handle the backend part.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+This was my first team project. After a few days into development of the project, I could figure out why it always takes a team to build something great.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Working on that project, Handling last moment crisis during an event and many more incidents made me realise the importance of aiming for something which is greater than an individual, something which is bigger than us.
+
+Had I not been a part of this wonderful family I could never have figured out the importance of a team and what it takes to achieve ones goals. All these moments of cohesion and sense of dependability and craving for the end result plunged me to think and see beyond my owns self.
+
+![Image](/media/6.jpg)
+
+ACM VIT "Thinks beyonds an individual. A team, a family is what makes us humans let's keep it that way."
