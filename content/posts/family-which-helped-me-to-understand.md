@@ -20,6 +20,8 @@ I used to sit for hours staring at my computer screen probably going through som
 
 It was second semester when I joined ACM VIT. My college life completely changed there after.
 
+![Image](/media/4_2.jpeg)
+
 I started hanging out with other members, We used to go out for lunch wearing ACM Tshirts, We used to plan well for our weekends and our night meetings were LIT.
 
 Even work seemed like partying at ACM VIT. We even named our hostel rooms as `ACM VIT Datacenter`, `ACM VIT Headquarters`
@@ -27,3 +29,5 @@ Even work seemed like partying at ACM VIT. We even named our hostel rooms as `AC
 All these moments made me realise the importance of friendship, importance of fun, importance of living.
 
 ACM VIT ***"Believes in Living life"***
+
+![Image](/media/4_1.jpeg)
